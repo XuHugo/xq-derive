@@ -2,6 +2,9 @@
 name = "xq-derive"
 version = "0.1.0"
 edition = "2018"
+authors = ["Kent Xu <xq-310@163.com>"]
+description = "Used to write eDSL proc-macro ."
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
